@@ -6,7 +6,6 @@ This is a solution to the [Crowdfunding product page challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -26,11 +25,6 @@ Users should be able to:
 - See an updated progress bar and total money raised based on their pledge total after confirming a pledge
 - See the number of total backers increment by one after confirming a pledge
 - Toggle whether or not the product is bookmarked
-
-### Screenshot
-
-![](./images/screenshot.jpg)
-
 
 ### Links
 
